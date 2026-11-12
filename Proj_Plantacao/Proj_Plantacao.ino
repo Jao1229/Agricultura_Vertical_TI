@@ -58,8 +58,8 @@ struct Estatisticas calcularEstatisticas(String data);
 #define SD_CS        5
 
 // ── Credenciais Wi-Fi ──────────────────────────────────────
-const char* STA_SSID  = "Coelho";
-const char* STA_PASS  = "cj031331";
+const char* STA_SSID  = ;
+const char* STA_PASS  = ;
 const char* AP_SSID   = "Protótipo-IoT";
 const char* AP_PASS   = "monitor123";
 
